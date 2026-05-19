@@ -1,0 +1,6 @@
+bike_dash_server/__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+__pycache__/

@@ -1,0 +1,5 @@
+pkg update && pkg upgrade
+pkg install python
+python --version
+pip install fastapi uvicorn
+nano main.py
